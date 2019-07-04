@@ -6,6 +6,6 @@ repositories{
 }
 
 dependencies {
-    compile("org.testng:testng:7.0.0-beta7")
+    compile("org.testng:testng-jdk14:4.4.7")
     compile("org.seleniumhq.selenium:selenium-java:4.0.0-alpha-2")
 }
